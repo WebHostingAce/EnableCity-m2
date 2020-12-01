@@ -1,5 +1,5 @@
 # EnableCity-m2
-Enable City in the Magento 2 Cart Page
+enable city field on cart page in Magento2
 
 Tested with Magento 2.4.1
 
